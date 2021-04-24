@@ -16,7 +16,7 @@ The city data showed some expected trends based on the classification of city ty
 
 
 
-Looking to the figure below, fare by city type in 2019 shows that urban areas have a much high revenue compared to rural with subarban being in the middle of the two classes. There is no intersection being any of the trends based on the given data set based on any of the classification such as driver, fare average or total rides given.
+Fare by city type in 2019 shows that urban areas have a much high revenue compared to rural with subarban being in the middle of the two classes. There is no intersection being any of the trends based on the given data set based on any of the classification such as driver, fare average or total rides given.
 
 
 
