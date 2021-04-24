@@ -18,7 +18,7 @@ The city data showed some expected trends based on the classification of city ty
 
 Fare by city type in 2019 shows that urban areas have a much high revenue compared to rural with subarban being in the middle of the two classes. There is no intersection being any of the trends based on the given data set based on any of the classification such as driver, fare average or total rides given.
 
-
+https://github.com/atebha/PyBer_Analysis/blob/main/Images/pyber_summary.PNG
 
 Challenges:
 The data set itself presented no challenges as the data was fairly cleaning and any null values(Nan) were removed. The only challenege personally faced were more hardward issues as the pathway for python had to be reset in order to load the data. 
